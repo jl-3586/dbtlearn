@@ -1,6 +1,7 @@
 # Airbnb Analytics dbt Project
 
 ## Overview
+![dbt_overview-2](https://github.com/user-attachments/assets/211dd7d0-5f4c-41f1-9e4f-1a215aca8cd9)
 
 This dbt (data build tool) project transforms raw Airbnb data into analytics-ready models for business intelligence and data analysis. The project demonstrates data engineering using dbt, including:
 
@@ -14,6 +15,7 @@ This dbt (data build tool) project transforms raw Airbnb data into analytics-rea
 The project also invovles an analysis of the correlation between full moon dates and Airbnb review sentiment, exploring the hypothesis that full moons might influence guest experiences and reviews.
 
 ![Input Schema](assets/input_schema.png)
+
 *Schema of the input data*
 
 ## Project Structure
